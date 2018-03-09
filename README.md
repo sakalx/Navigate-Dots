@@ -24,7 +24,7 @@ add to this sections class (ANCHOR) **for example**:
 + add to page (end of body HTML) Js Script:
 ```
 <script>
-  verticalNavigationDots.init({
+  VND.init({
     cls: 'js-navDots', // anchor
     hideOnScreenLess: 640, // default = 0
   })
