@@ -2,7 +2,7 @@ ________________________________________________________
 ________________________________________________________
 # Add Vertical Navigation Dots
 
-**[DEMO](https://sakalx.github.io/navigate-dots)**
+**[DEMO](https://sakalx.github.io/Navigate-Dots)**
 
 > render vertical nav dods
  customized PgUp and PgDown scrolling between sections
