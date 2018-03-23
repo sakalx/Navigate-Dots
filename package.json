@@ -1,0 +1,24 @@
+{
+  "name": "navigation-vertica-dots",
+  "version": "1.0.0",
+  "description": "render vertical nav dods",
+  "main": "./js/VDN.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakalx/Navigate-Dots.git"
+  },
+  "keywords": [
+    "navigation",
+    "dots",
+    "vertocal"
+  ],
+  "author": "Serhii Sakal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sakalx/Navigate-Dots/issues"
+  },
+  "homepage": "https://github.com/sakalx/Navigate-Dots#readme"
+}
